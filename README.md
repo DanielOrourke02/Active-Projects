@@ -21,10 +21,10 @@ Continuous learning and personal development are important in a programmer’s j
 
 Tick == Finished
 
- - [x] Face Recognition (PY)
- - [ ] Password Generator (C++)
- - [ ] AI Chatbot (C++)
- - [ ] Morse Code Decipher (C++)
+ - [x] [Face Recognition (PY)](https://github.com/DanielJones02/Face-RecognitionPY)
+ - [ ] [Password Generator (C++)](https://github.com/DanielJones02/Password-Generator)
+ - [ ] [AI Chatbot (C++)](https://github.com/DanielJones02/AI-Chatbot-cpp)
+ - [ ] [Morse Code Decipher (C++)](https://github.com/DanielJones02/Morse-Code-Decipher)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
