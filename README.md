@@ -26,6 +26,10 @@ Tick == Finished
  - [ ] [AI Chatbot (C++)](https://github.com/DanielJones02/AI-Chatbot-cpp)
  - [ ] [Morse Code Decipher (C++)](https://github.com/DanielJones02/Morse-Code-Decipher)
 
+# Depricated Projects
+
+ - None so far.
+
 <h3 align="left">Connect with me: UNABLE TO BE CONTACTED FOR NOW.</h3>
 <p align="left">
 </p>
