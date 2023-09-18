@@ -25,6 +25,7 @@ Tick == Finished
  - [ ] [Password Generator (C++)](https://github.com/DanielJones02/Password-Generator)
  - [ ] [AI Chatbot (C++)](https://github.com/DanielJones02/AI-Chatbot-cpp)
  - [ ] [Morse Code Decipher (C++)](https://github.com/DanielJones02/Morse-Code-Decipher)
+ - [ ] [Protfolio Webpage](https://github.com/DanielJones02/Active-Projects)
 
 # Depricated Projects
 
