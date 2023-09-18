@@ -7,6 +7,25 @@ Projects I am currently working on and a little about me. Consists of: What i'm 
 
 - 👨‍💻 All of my projects are available at [https://github.com/DanielJones02](https://github.com/DanielJones02)
 
+# Who am I?
+
+Hello, I'm Daniel Jones and I'm a young passionate Python and C++ Developer. My journey into the world of coding started with curiosity, but quickly turned into my full interest and hobby. I enjoy programming in my free time and hope to have a job as a software engineer in the future. 
+
+I want to find a job as a software engineer, because I can contribute to new projects and collaborate with other professionals to develop new software applications. I believe programming is more than just writing a few lines of code; It’s about using your imagination and creating things you never thought you could. Like Lego!
+
+In addition to my career goals, I have a desire to work freelance in my spare time after mastering my skills at a high level. Freelancing offers the flexibility to work on different projects, continue learning, and connect with clients around the world. I see this as an opportunity to expand my knowledge in the tech industry and apply my programming skills to a variety of challenges. 
+
+Continuous learning and personal development are important in a programmer’s journey. I'm excited to take on a role in the software development and contribute my skills to making a positive mark in the technology industry.
+
+# All Projects
+
+Tick == Finished
+
+ - [x] Face Recognition (PY)
+ - [ ] Password Generator (C++)
+ - [ ] AI Chatbot (C++)
+ - [ ] Morse Code Decipher (C++)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
