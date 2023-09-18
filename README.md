@@ -3,7 +3,7 @@ Projects I am currently working on and a little about me. Consists of: What i'm 
 
 <h1 align="center">Hi 👋, I'm Daniel Jones</h1>
 <h3 align="center">I'm a passionate Python and C++ developer</h3>
-<h3 align="center">Welcome To my github project!👋</h3>
+<h3 align="center">Welcome To my github protfolio page!👋</h3>
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/DanielJones02)
 
