@@ -16,10 +16,8 @@ Continuous learning and personal development are important in a programmer’s j
 
 # All Projects
 
-Tick == Finished
-
  - [x] [Face Recognition (PY)](https://github.com/DanielJones02/Face-RecognitionPY)
- - [ ] [Password Generator (C++)](https://github.com/DanielJones02/Password-Generator)
+ - [x] [Password Generator (C++)](https://github.com/DanielJones02/Password-Generator)
  - [ ] [AI Chatbot (C++)](https://github.com/DanielJones02/AI-Chatbot-cpp)
  - [ ] [Morse Code Decipher (C++)](https://github.com/DanielJones02/Morse-Code-Decipher)
  - [ ] [Protfolio Webpage](https://github.com/DanielJones02/Active-Projects)
@@ -27,6 +25,14 @@ Tick == Finished
 # Depricated Projects
 
  - None so far.
+
+# Currently Learning
+
+- [x] Python
+- [ ] C++
+- [ ] AI technology
+- [ ] Audio, Camera and image Libs in C++
+- [ ] MinGW Or Imgui
 
 <h3 align="left">Connect with me: UNABLE TO BE CONTACTED FOR NOW.</h3>
 <p align="left">
