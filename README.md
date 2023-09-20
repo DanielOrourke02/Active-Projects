@@ -18,6 +18,7 @@ Continuous learning and personal development are important in a programmer’s j
 
  - [x] [Face Recognition (PY)](https://github.com/DanielJones02/Face-RecognitionPY)
  - [x] [Password Generator (C++)](https://github.com/DanielJones02/Password-Generator)
+ - [ ] [Password Manager (C++)](https://github.com/DanielJones02/Password-Manager)
  - [ ] [AI Chatbot (C++)](https://github.com/DanielJones02/AI-Chatbot-cpp)
  - [ ] [Morse Code Decipher (C++)](https://github.com/DanielJones02/Morse-Code-Decipher)
  - [ ] [Protfolio Webpage](https://github.com/DanielJones02/Active-Projects)
