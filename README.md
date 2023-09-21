@@ -6,9 +6,9 @@
 
 # Who am I?
 
-Hello, I'm Daniel Jones, a young 14 year old programmer (wrote in 2023), who is fluent in: Python, C++ (learning C++), I also know a little of HTML and CSS but I only tinkered with them for fun. My journey into the world of coding started with curiosity, but quickly turned into my full interest and hobby. I enjoy programming in my free time and hope to have a job as a software engineer in the future. 
+Hello, I'm Daniel Jones, a young 14 year old programmer (written in 2023), who is fluent in: Python, C++ (learning C++), I also know a little of HTML and CSS but I only tinkered with them for fun. My journey into the world of coding started with curiosity, but quickly turned into my full interest and hobby. I enjoy programming in my free time and hope to have a job as a software engineer in the future. 
 
-I want to find a job as a software engineer, because I can contribute to new projects and collaborate with other professionals to develop new software applications. I believe programming is more than just writing a few lines of code; It’s about using your imagination and creating things you never thought you could. Like Lego!
+I want to find a job as a software engineer, i'm not sure exactly what I want to do (front end or back end) but my dream is to do something programming related (hopefuly C++ related), I believe I can work well as a software engineer because I can contribute to new projects and collaborate with other professionals to develop new software applications. I believe programming is more than just writing a few lines of code; It’s about using solving complex problems and thinking logically.
 
 In addition to my career goals, I have a desire to work freelance in my spare time after mastering my skills at a high level. Freelancing offers the flexibility to work on different projects, continue learning, and connect with clients around the world. I see this as an opportunity to expand my knowledge in the tech industry and apply my programming skills to a variety of challenges. 
 
