@@ -6,7 +6,7 @@
 
 # Who am I?
 
-Hello, I'm Daniel Jones and I'm a young passionate Python and C++ Developer. My journey into the world of coding started with curiosity, but quickly turned into my full interest and hobby. I enjoy programming in my free time and hope to have a job as a software engineer in the future. 
+Hello, I'm Daniel Jones, a young 14 year old programmer (wrote in 2023), who is fluent in: Python, C++ (learning C++), I also know a little of HTML and CSS but I only tinkered with them for fun. My journey into the world of coding started with curiosity, but quickly turned into my full interest and hobby. I enjoy programming in my free time and hope to have a job as a software engineer in the future. 
 
 I want to find a job as a software engineer, because I can contribute to new projects and collaborate with other professionals to develop new software applications. I believe programming is more than just writing a few lines of code; It’s about using your imagination and creating things you never thought you could. Like Lego!
 
