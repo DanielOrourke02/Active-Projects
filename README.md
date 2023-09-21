@@ -6,7 +6,7 @@
 
 # Who am I?
 
-Hello, I'm Daniel Jones, a young 14 year old programmer (as of this momment), who is fluent in: Python, C++ (learning C++), I also know a little of HTML and CSS but I only tinkered with them for fun. My journey into the world of coding started with curiosity, but quickly turned into my full interest and hobby. I enjoy programming in my free time and hope to have a job as a software engineer in the future. 
+Hello, I'm Daniel Jones, a young 14 year old programmer (as of this momment), who is fluent in: Python, C++ (learning C++) and I also know a little of HTML and CSS but I only tinkered with them for fun. My journey into the world of coding started with curiosity, but quickly turned into my full interest and hobby. I enjoy programming in my free time and hope to have a job as a software engineer in the future. 
 
 I want to find a job as a software engineer, i'm not sure exactly what I want to do (front end or back end) but my dream is to do something programming related (hopefuly C++ related), I believe I can work well as a software engineer because I can contribute to new projects and collaborate with other professionals to develop new software applications. I believe programming is more than just writing a few lines of code; It’s about using solving complex problems and thinking logically.
 
