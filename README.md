@@ -16,7 +16,7 @@ Continuous learning and personal development are important in a programmer’s j
 
 # All My Projects
 
-I want to mainly focus on 1-3 projects amd have a few little projects that will have less of my attention.
+I waill mainly focus on 1-3 projects and have a few side projects that will have less of my attention.
 
  - [x] [Face Recognition (PY)](https://github.com/DanielJones02/Face-RecognitionPY)
  - [x] [Simple Password Generator (C++)](https://github.com/DanielJones02/Password-Generator)
