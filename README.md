@@ -6,17 +6,17 @@
 
 # Who am I?
 
-Hello, I'm Daniel Jones, a young 14 year old programmer (as of this momment), who is fluent in: Python, C++ (learning C++) and I also know a little of HTML and CSS but I only tinkered with them for fun. My journey into the world of coding started with curiosity, but quickly turned into my full interest and hobby. I enjoy programming in my free time and hope to have a job as a software engineer in the future. 
+Hello, I'm Daniel Jones, a young 14 year old programmer (as of this momment), who is fluent in: Python, C++ (learning C++) and I also know a little of HTML and CSS but I only tinkered with them for fun. My journey into the world of coding started with curiosity, but quickly turned into my full interest and hobby.
 
-I want to find a job as a software engineer, i'm not sure exactly what I want to do (front end or back end) but my dream is to do something programming related (hopefuly C++ related), I believe I can work well as a software engineer because I can contribute to new projects and collaborate with other professionals to develop new software applications. I believe programming is more than just writing a few lines of code; It’s about using solving complex problems and thinking logically.
+In the future I would like to work as a C++ backend or frontend developer, I believe I can work well as a software engineer because I can contribute to new projects and collaborate with other professionals to develop new software applications. I believe programming is more than just writing a few lines of code; It’s about using solving complex problems and thinking logically.
 
-In addition to my career goals, I have a desire to work freelance in my spare time after mastering my skills at a high level. Freelancing offers the flexibility to work on different projects, continue learning, and connect with clients around the world. I see this as an opportunity to expand my knowledge in the tech industry and apply my programming skills to a variety of challenges. 
+In addition to my career goals, In my free time I wish to work as a freelancer, if I have the time. Freelancing offers the flexibility to work on different projects, continue learning, and connect with people around the world. Not only does this bring new complex challenges but helps expand my knoledge and gain new connections in the tech industry.
 
-Continuous learning and personal development are important in a programmer’s journey. I'm excited to take on a role in the software development and contribute my skills to making a positive mark in the technology industry.
+Thanks for reading!
 
 # All My Projects
 
-I waill mainly focus on 1-3 projects and have a few side projects that will have less of my attention.
+I will mainly focus on 1-3 projects and have a few side projects that will have less of my attention.
 
  - [x] [Face Recognition (PY)](https://github.com/DanielJones02/Face-RecognitionPY)
  - [x] [Simple Password Generator (C++)](https://github.com/DanielJones02/Password-Generator)
@@ -39,7 +39,7 @@ I waill mainly focus on 1-3 projects and have a few side projects that will have
 - [ ] C++
 - [ ] AI technology
 - [ ] Audio, Camera and image Libs in C++
-- [ ] MinGW Or Imgui
+- [ ] MinGW 
 
 <h3 align="left">Connect with me: UNABLE TO BE CONTACTED FOR NOW.</h3>
 <p align="left">
