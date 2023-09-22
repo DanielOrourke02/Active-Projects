@@ -22,14 +22,14 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
  - [x] [Simple Password Generator (C++)](https://github.com/DanielJones02/Password-Generator)
  - [ ] [Encrypted Password Manager (C++)](https://github.com/DanielJones02/Password-Manager)
  - [ ] [TODO App (C++)](https://github.com/DanielJones02/TODO-Application)
- - [ ] [AI Chatbot (C++)](https://github.com/DanielJones02/AI-Chatbot-cpp)
+ - [ ] [Number processor](https://github.com/DanielJones02/number-processer)
  - [ ] [Morse Code Decipher (C++)](https://github.com/DanielJones02/Morse-Code-Decipher)
 
 ### Main Projects
 
  - [Encrypted Password Manager (C++)](https://github.com/DanielJones02/Password-Manager)
 
- - [TODO App (C++)](https://github.com/DanielJones02/TODO-Application)
+ - [TODO Application (C++)](https://github.com/DanielJones02/TODO-Application)
 
  - [Morse Code Decipher (C++)](https://github.com/DanielJones02/Morse-Code-Decipher)
 
