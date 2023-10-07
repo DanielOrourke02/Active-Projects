@@ -34,13 +34,9 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
 
  - [Morse Code Decipher (C++)](https://github.com/DanielJones02/Morse-Code-Decipher)
 
-# Currently Learning
+# Challenges I'm Facing
 
-- [x] Python
-- [ ] C++
-- [ ] AI technology
-- [ ] Audio, Camera and image Libs in C++
-- [ ] MinGW 
+ - [ ] Learning ImGUI (GUIs in general)
 
 <h3 align="left">Connect with me: UNABLE TO BE CONTACTED FOR NOW.</h3>
 <p align="left">
