@@ -23,7 +23,7 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
  - [x] [Simple GUI (C++)](https://github.com/DanielJones02/Simple-GUI)
  - [ ] [Encrypted Password Manager (C++)](https://github.com/DanielJones02/Password-Manager)
  - [ ] [TODO App (C++)](https://github.com/DanielJones02/TODO-Application)
- - [ ] [Number Cruncher](https://github.com/DanielJones02/number-processer)
+ - [ ] [Number Cruncher (C++)](https://github.com/DanielJones02/number-processer)
  - [ ] [Morse Code Decipher (C++)](https://github.com/DanielJones02/Morse-Code-Decipher)
 
 ### Main Projects
