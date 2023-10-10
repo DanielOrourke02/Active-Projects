@@ -36,7 +36,8 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
 
 # Challenges I'm Facing
 
- - [ ] Learning ImGUI (GUIs in general)
+ - [x] Learning ImGUI (GUIs in general)
+ - [ ] C++ Pointers 💀
 
 <h3 align="left">Connect with me: UNABLE TO BE CONTACTED FOR NOW.</h3>
 <p align="left">
