@@ -29,11 +29,14 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
 
 ### Main Projects
 
- - [Encrypted Password Manager (C++)](https://github.com/DanielJones02/Password-Manager)
+ - [Password Manager (C++)](https://github.com/DanielJones02/Password-Manager)
+Just a Password Manager in C++ for Windows.
 
  - [TODO Application (C++)](https://github.com/DanielJones02/TODO-Application)
+Planning on making this a Mobile and PC Application. I plan to make it for Android and Windows.
 
  - [Morse Code Decipher (C++)](https://github.com/DanielJones02/Morse-Code-Decipher)
+A GUI Based Software for windows that can decipher morse code from: Audio, text, video (maybe)
 
 # Challenges I'm Facing
 
