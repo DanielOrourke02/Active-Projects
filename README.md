@@ -21,7 +21,6 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
  - [x] [Face Recognition (PY)](https://github.com/DanielJones02/Face-RecognitionPY)
  - [x] [Password Generator (C++)](https://github.com/DanielJones02/Password-Generator)
  - [x] [Simple GUI (C++)](https://github.com/DanielJones02/Simple-GUI)
- - [ ] [Emoji Package (PY)](https://github.com/DanielJones02/emojis)
  - [ ] [Password Manager (C++)](https://github.com/DanielJones02/Password-Manager)
  - [ ] [TODO App (C++)](https://github.com/DanielJones02/TODO-Application)
  - [ ] [Number Cruncher (C++)](https://github.com/DanielJones02/number-cruncher)
