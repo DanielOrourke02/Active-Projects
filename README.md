@@ -6,8 +6,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
 </div>
 
-
-- 👨‍💻 All of my projects are available at [My Github](https://github.com/DanielJones02)
+<div align="center">
+  <p>👨‍💻 All of my projects are available at [My Github](https://github.com/DanielJones02) </p>
+  </div>
 
 # Who am I?
 
