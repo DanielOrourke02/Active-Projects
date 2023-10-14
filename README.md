@@ -18,6 +18,10 @@ In addition to my career goals, In my free time I wish to work as a freelancer, 
 
 Thanks for reading!
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
+</div>
+
 # All My Projects
 
 I will mainly focus on 1-3 projects and have a few side projects that will have less of my attention.
@@ -30,6 +34,10 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
  - [ ] [Number Cruncher (C++)](https://github.com/DanielJones02/number-cruncher)
  - [ ] [Morse Code Decipher (C++)](https://github.com/DanielJones02/Morse-Code-Decipher)
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
+</div>
+
 ### Main Projects
 
  - [Password Manager (C++)](https://github.com/DanielJones02/Password-Manager)
@@ -41,10 +49,18 @@ Mobile and PC Application. I plan to make it for Android and Windows.
  - [Morse Code Decipher (C++)](https://github.com/DanielJones02/Morse-Code-Decipher)
 A GUI Based Software for windows that can decipher morse code from: Audio, text, video (maybe)
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
+</div>
+
 # Challenges I'm Facing
 
  - [x] Learning ImGUI (GUIs in general)
  - [ ] C++ Pointers 💀
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
+</div>
 
 <h3 align="center">Connect with Me:</h3>
 
@@ -55,6 +71,10 @@ A GUI Based Software for windows that can decipher morse code from: Audio, text,
   <a href="https://www.youtube.com/channel/UCDRBLCjQSKVyy_cCxTpqRnw">🌐 Youtube Channel</a>
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
+</div>
+
 <h3 align="center">Hire Me:</h3>
 
 <p align="center">
@@ -64,7 +84,6 @@ A GUI Based Software for windows that can decipher morse code from: Audio, text,
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
 </div>
-
 
 ## 💻 Tools, Languages, and Other Things I Work Well With 💻
 
