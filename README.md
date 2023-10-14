@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <p>👨‍💻 All of my projects are available at [My Github](https://github.com/DanielJones02) </p>
+  <h1>👨‍💻 All of my projects are available at [My Github](https://github.com/DanielJones02) </h1>
   </div>
 
 # Who am I?
