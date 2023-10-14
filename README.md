@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daniel Jones</h1>
-<h3 align="center">I'm a passionate Python and C++ developer</h3>
-<h3 align="center">Welcome To my github protfolio page!👋</h3>
+<h3 align="center">🚀 A Passionate Python and C++ Developer 🚀</h3>
+<h3 align="center">Welcome To My Github Projects! 👋</h3>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
+</div>
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/DanielJones02)
 
@@ -42,13 +46,33 @@ A GUI Based Software for windows that can decipher morse code from: Audio, text,
  - [x] Learning ImGUI (GUIs in general)
  - [ ] C++ Pointers 💀
 
-<h3 align="left">Connect with me: UNABLE TO BE CONTACTED FOR NOW.</h3>
-<p align="left">
+<h3 align="center">Connect with Me:</h3>
+
+<p align="center">
+  <a href="I_will_change_later@gmail.com">✉️ Email</a> |
+  <a href="https://www.linkedin.com/in/yourlinkedinprofile">💼 LinkedIn</a> |
+  <a href="https://twitter.com/yourtwitter">🐦 Twitter</a> |
+  <a href="https://www.youtube.com/channel/UCDRBLCjQSKVyy_cCxTpqRnw">🌐 Youtube Channel</a>
 </p>
 
-[HIRE ME (freelancing)](https://github.com/DanielJones02)
+<h3 align="center">Hire Me:</h3>
 
-UNABLE TO BE HIRED AT THIS MOMMENT
+<p align="center">
+  Currently not available for hire
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
+</div>
+
+
+## 💻 Tools, Languages, and Other Things I Work Well With 💻
+
+<div align="center">
+  <img src="images/Visual_Studio_Icon_2019.svg.png" width="48" height="48" alt="Visual Studio" />
+  <img src="images/python.png" alt="Python" />
+  <img src="images/html.png" alt="HTML" />
+  <img src="images/css.png" alt="CSS" />
+  <img src="images/C++.png" alt="C++" />
+  <img src="images/linux.png" alt="Linux" />
+</div>
