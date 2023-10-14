@@ -32,7 +32,7 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
  - [ ] [Password Manager (C++)](https://github.com/DanielJones02/Password-Manager)
  - [ ] [TODO App (C++)](https://github.com/DanielJones02/TODO-Application)
  - [ ] [Number Cruncher (C++)](https://github.com/DanielJones02/number-cruncher)
- - [ ] [Morse Code Decipher (C++)](https://github.com/DanielJones02/Morse-Code-Decipher)
+ - [ ] [File Shredder (C++)](https://github.com/DanielJones02/file-shredder)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
@@ -45,9 +45,6 @@ Just a Password Manager in C++ for Windows.
 
  - [TODO Application (C++)](https://github.com/DanielJones02/TODO-Application)
 Mobile and PC Application. I plan to make it for Android and Windows.
-
- - [Morse Code Decipher (C++)](https://github.com/DanielJones02/Morse-Code-Decipher)
-A GUI Based Software for windows that can decipher morse code from: Audio, text, video (maybe)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
