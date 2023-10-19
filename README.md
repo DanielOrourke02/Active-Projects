@@ -34,7 +34,6 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
  - [ ] [TODO App (C++)](https://github.com/DanielJones02/TODO-Application)
  - [ ] [Number Cruncher (C++)](https://github.com/DanielJones02/number-cruncher)
  - [ ] [File Shredder (C++)](https://github.com/DanielJones02/file-shredder)
- - [ ] [Steganography Tool (C++)](https://github.com/DanielJones02/Steganography)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
@@ -55,7 +54,10 @@ Mobile and PC Application. I plan to make it for Android and Windows.
 # Challenges I'm Facing
 
  - [x] Learning ImGUI (GUIs in general)
+ - [x] Learn C++
  - [ ] C++ Pointers 💀
+ - [ ] Artificial neural networks (machine learning)
+ - [ ] Tensorflow (machine learning)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
