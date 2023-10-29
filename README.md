@@ -45,7 +45,7 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
 Just a Password Manager in C++ for Windows.
 
  - [TODO Application (C++)](https://github.com/DanielJones02/TODO-Application)
-Mobile and PC Application. I plan to make it for Android and Windows.
+Windows Application for setting Tasks to do
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
@@ -55,6 +55,7 @@ Mobile and PC Application. I plan to make it for Android and Windows.
 
  - [x] Learning ImGUI (GUIs in general)
  - [x] Learn C++
+ - [ ] Qt (library)
  - [ ] C++ Pointers 💀
  - [ ] Artificial neural networks (machine learning)
  - [ ] Tensorflow (machine learning)
