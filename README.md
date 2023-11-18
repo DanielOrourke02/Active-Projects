@@ -29,7 +29,7 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
  - [x] [Face Recognition (PY)](https://github.com/DanielJones02/Face-RecognitionPY)
  - [x] [Password Generator (C++)](https://github.com/DanielJones02/Password-Generator)
  - [x] [Simple GUI (C++)](https://github.com/DanielJones02/Simple-GUI)
- - [x] [WipeWizard Discord Bot (PY)](https://github.com/DanielJones02/WipeWizard-Bot)
+ - [x] [Cleaner Discord Bot (PY)](https://github.com/DanielJones02/Cleaner-Bot)
  - [ ] [YT Video Downloader (C++)](https://github.com/DanielJones02/Youtube-Video-Downloader)
  - [ ] [Password Manager (C++)](https://github.com/DanielJones02/Password-Manager)
  - [ ] [TODO App (C++)](https://github.com/DanielJones02/TODO-Application)
