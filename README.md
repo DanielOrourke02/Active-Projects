@@ -29,7 +29,7 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
  - [x] [Face Recognition (PY)](https://github.com/DanielJones02/Face-RecognitionPY)
  - [x] [Password Generator (C++)](https://github.com/DanielJones02/Password-Generator)
  - [x] [Simple GUI (C++)](https://github.com/DanielJones02/Simple-GUI)
- - [x] [Cleaner Discord Bot (PY)](https://github.com/DanielJones02/Cleaner-Bot)
+ - [x] [Discord Bot (PY)](https://github.com/DanielJones02/Discord-Bot)
  - [ ] [YT Video Downloader (C++)](https://github.com/DanielJones02/Youtube-Video-Downloader)
  - [ ] [Password Manager (C++)](https://github.com/DanielJones02/Password-Manager)
  - [ ] [TODO App (C++)](https://github.com/DanielJones02/TODO-Application)
@@ -64,28 +64,21 @@ Windows Application for setting Tasks to do
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
 </div>
 
-<h3 align="center">Connect with Me:</h3>
+### Face Recognition (C++)
 
-<p align="center">
-  <a href="I_will_change_later@gmail.com">✉️ Email</a> |
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile">💼 LinkedIn</a> |
-  <a href="https://twitter.com/yourtwitter">🐦 Twitter</a> |
-  <a href="https://www.youtube.com/channel/UCDRBLCjQSKVyy_cCxTpqRnw">🌐 Youtube Channel</a>
-</p>
+A very small python project that uses a python library for face recognition.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
-</div>
+### Password Generator (C++)
 
-<h3 align="center">Hire Me:</h3>
+One of my first GUI based projects. Very bare bones basic UI for password generation in C++ using the imgui library.
 
-<p align="center">
-  Currently not available for hire
-</p>
+### Simple GUI (C++)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
-</div>
+Basically a template for other GUI projects
+
+### Discord Bot (PY)
+
+A discord bot in python that 'nukes' channels meaning it purges all the messages in the channel and has many other features.
 
 ## 💻 Tools, Languages, and Other Things I Work Well With 💻
 
