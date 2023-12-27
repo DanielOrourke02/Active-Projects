@@ -22,6 +22,9 @@ Thanks for reading!
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
 </div>
 
+# stopped programming for a while. exploring other tech (blender, iot, rasberry pico)
+I will be back soon to release more projects
+
 # All My Projects
 
 I will mainly focus on 1-3 projects and have a few side projects that will have less of my attention.
