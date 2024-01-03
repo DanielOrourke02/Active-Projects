@@ -33,6 +33,7 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
  - [x] [Password Generator (C++)](https://github.com/DanielJones02/Password-Generator)
  - [x] [Simple GUI (C++)](https://github.com/DanielJones02/Simple-GUI)
  - [x] [Discord Bot (PY)](https://github.com/DanielJones02/Discord-Bot)
+ - [ ] [Echo Bot (PY)](https://github.com/DanielJones02/Echo)
  - [ ] [YT Video Downloader (C++)](https://github.com/DanielJones02/Youtube-Video-Downloader)
  - [ ] [Password Manager (C++)](https://github.com/DanielJones02/Password-Manager)
  - [ ] [TODO App (C++)](https://github.com/DanielJones02/TODO-Application)
@@ -43,6 +44,9 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
 </div>
 
 ### Main Projects
+
+ - [Echo Bot (PY)](https://github.com/DanielJones02/Echo)
+Advanced Discord Bot, with: moderation commands, economy games, simple commands, a virtual trading system (bitcoin). The bot is mainly Economy game focused.
 
  - [Password Manager (C++)](https://github.com/DanielJones02/Password-Manager)
 Just a Password Manager in C++ for Windows.
