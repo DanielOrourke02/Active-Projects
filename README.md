@@ -22,9 +22,6 @@ Thanks for reading!
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
 </div>
 
-# stopped programming for a while. exploring other tech (blender, iot, rasberry pico)
-I will be back soon to release more projects
-
 # All My Projects
 
 I will mainly focus on 1-3 projects and have a few side projects that will have less of my attention.
@@ -33,7 +30,8 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
  - [x] [Password Generator (C++)](https://github.com/DanielJones02/Password-Generator)
  - [x] [Simple GUI (C++)](https://github.com/DanielJones02/Simple-GUI)
  - [x] [Discord Bot (PY)](https://github.com/DanielJones02/Discord-Bot)
- - [ ] [Echo Bot (PY)](https://github.com/DanielJones02/Echo)
+ - [x] [Echo Bot (PY)](https://github.com/DanielJones02/Echo)
+ - [x] [Sorting Algorithms (C++)](https://github.com/DanielJones02/number-crucnher)
  - [ ] [YT Video Downloader (C++)](https://github.com/DanielJones02/Youtube-Video-Downloader)
  - [ ] [Password Manager (C++)](https://github.com/DanielJones02/Password-Manager)
  - [ ] [TODO App (C++)](https://github.com/DanielJones02/TODO-Application)
@@ -46,7 +44,7 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
 ### Main Projects
 
  - [Echo Bot (PY)](https://github.com/DanielJones02/Echo)
-Advanced Discord Bot, with: moderation commands, economy games, simple commands, a virtual trading system (bitcoin). The bot is mainly Economy game focused.
+Advanced Discord Bot, with: moderation commands, economy games and more custom complex commands. I plan for the bot to be an all in one server solution for: managing, creating, moderating and fun.
 
  - [Password Manager (C++)](https://github.com/DanielJones02/Password-Manager)
 Just a Password Manager in C++ for Windows.
@@ -66,26 +64,6 @@ Windows Application for setting Tasks to do
  - [ ] C++ Pointers 💀
  - [ ] Artificial neural networks (machine learning)
  - [ ] Tensorflow (machine learning)
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
-</div>
-
-### Face Recognition (C++)
-
-A very small python project that uses a python library for face recognition.
-
-### Password Generator (C++)
-
-One of my first GUI based projects. Very bare bones basic UI for password generation in C++ using the imgui library.
-
-### Simple GUI (C++)
-
-Basically a template for other GUI projects
-
-### Discord Bot (PY)
-
-A discord bot in python that 'nukes' channels meaning it purges all the messages in the channel and has many other features.
 
 ## 💻 Tools, Languages, and Other Things I Work Well With 💻
 
