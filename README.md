@@ -10,11 +10,11 @@
 
 # Who am I?
 
-Hello, I'm Daniel Jones, a highly motivated and focused young 14 year old programmer, I can program in: Python and C++ (and a little HTML & CSS). My journey into the world of coding started with curiosity, but quickly turned into my full interest and hobby.
+Hello, I'm Daniel Jones, a highly motivated and focused young 14 year old programmer, I can program in: Python, C++ and a little HTML & CSS. My journey into the world of coding started with curiosity, but quickly turned into my full interest and hobby.
 
-In the future I would like to work as a C++ backend or frontend developer, I believe I can work well as a software engineer because I can contribute to new projects and collaborate with other professionals to develop new software applications. I believe programming is more than just writing a few lines of code; It’s about using solving complex problems and thinking logically.
+In the future I would like to work as a C++ backend or frontend developer or whatever future job opportunities I get, I believe I can work well as a software engineer because I can contribute to new projects and collaborate with other professionals to develop new software applications. I believe programming is more than just writing a few lines of code; It’s about using solving complex problems and thinking logically which not alot of people can do.
 
-In addition to my career goals, In my free time I wish to work as a freelancer, if I have the time. Freelancing offers the flexibility to work on different projects, continue learning, and connect with people around the world. Not only does this bring new complex challenges but helps expand my knoledge and gain new connections in the tech industry.
+In addition to my career goals, In my free time I wish to work as a freelancer (I cannot due to my current circumstances). I would like to work as a freelancer becuase it offers the flexibility to work on different projects, continue learning, and connect with people around the world. Not only does this bring new complex challenges but helps expand my knoledge and gain new connections in the tech industry.
 
 Thanks for reading!
 
