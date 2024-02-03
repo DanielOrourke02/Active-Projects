@@ -8,6 +8,8 @@
 
 👨‍💻 All of my projects are available at [My Github](https://github.com/DanielJones02)
 
+#### This is a repo for all my projects im currently working on and a small summary of it
+
 # Who am I?
 
 Hello, I'm Daniel Jones, a highly motivated and focused young 14 year old programmer, I can program in: Python, C++ and a little HTML & CSS. My journey into the world of coding started with curiosity, but quickly turned into my full interest and hobby.
