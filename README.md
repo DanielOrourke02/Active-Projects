@@ -36,6 +36,7 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
  - [ ] [Password Manager (C++)](https://github.com/DanielJones02/Password-Manager)
  - [ ] [TODO App (C++)](https://github.com/DanielJones02/TODO-Application)
  - [ ] [File Shredder (C++)](https://github.com/DanielJones02/file-shredder)
+ - [ ] [Auto Clicker (C++ or PY)]()
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
