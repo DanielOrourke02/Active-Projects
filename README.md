@@ -31,7 +31,6 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
  - [x] [Face Recognition (PY)](https://github.com/DanielJones02/Face-RecognitionPY)
  - [x] [Password Generator (C++)](https://github.com/DanielJones02/Password-Generator)
  - [x] [Simple GUI (C++)](https://github.com/DanielJones02/Simple-GUI)
- - [x] [Discord Bot (PY)](https://github.com/DanielJones02/Discord-Bot)
  - [x] [Echo Bot (PY)](https://github.com/DanielJones02/Echo)
  - [x] [Sorting Algorithms (C++)](https://github.com/DanielJones02/number-crucnher)
  - [ ] [YT Video Downloader (C++)](https://github.com/DanielJones02/Youtube-Video-Downloader)
