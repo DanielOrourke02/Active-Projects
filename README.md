@@ -58,6 +58,14 @@ Windows Application for setting Tasks to do
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
 </div>
 
+# Hire me.
+
+Discord server: https://discord.gg/kNWkT8xWg6
+
+OR
+
+DM me: mal023
+
 # Challenges I'm Facing
 
  - [x] Learning ImGUI (GUIs in general)
