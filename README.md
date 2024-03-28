@@ -58,13 +58,11 @@ Windows Application for setting Tasks to do
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
 </div>
 
-# Up for hire!
-
-Discord server: https://discord.gg/kNWkT8xWg6
-
-OR
-
-DM me: mal023
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+<h3 align="left">Hire Me: https://discord.gg/kNWkT8xWg6 Or DM ME: mal023</h3>
+</p>
 
 # Challenges I'm Facing
 
