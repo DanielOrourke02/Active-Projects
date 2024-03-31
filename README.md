@@ -48,6 +48,9 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
  - [Echo Bot (PY)](https://github.com/DanielJones02/Echo)
 Advanced Discord Bot, with: moderation commands, economy games and more custom complex commands. I plan for the bot to be an all in one server solution for: managing, creating, moderating and fun.
 
+ - [Discord Bot Archive](https://github.com/DanielJones02/Discord-Bots)
+An archive of all the bots I have programmed for people (freelance).
+
  - [Password Manager (C++)](https://github.com/DanielJones02/Password-Manager)
 Just a Password Manager in C++ for Windows.
 
