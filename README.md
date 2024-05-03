@@ -33,10 +33,8 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
  - [x] [Simple GUI (C++)](https://github.com/DanielJones02/Simple-GUI)
  - [x] [Echo Bot (PY)](https://github.com/DanielJones02/Echo)
  - [x] [Sorting Algorithms (C++)](https://github.com/DanielJones02/number-crucnher)
- - [ ] [YT Video Downloader (C++)](https://github.com/DanielJones02/Youtube-Video-Downloader)
  - [ ] [Password Manager (C++)](https://github.com/DanielJones02/Password-Manager)
  - [ ] [TODO App (C++)](https://github.com/DanielJones02/TODO-Application)
- - [ ] [File Shredder (C++)](https://github.com/DanielJones02/file-shredder)
  - [ ] [Auto Clicker (C++ or PY)]()
 
 <div align="center">
