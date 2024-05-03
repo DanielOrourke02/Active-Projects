@@ -33,6 +33,7 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
  - [x] [Simple GUI (C++)](https://github.com/DanielJones02/Simple-GUI)
  - [x] [Echo Bot (PY)](https://github.com/DanielJones02/Echo)
  - [x] [Sorting Algorithms (C++)](https://github.com/DanielJones02/number-crucnher)
+ - [ ] [Discord Bot Template (PY)](https://github.com/DanielJones02/Discord-Template)
  - [ ] [Password Manager (C++)](https://github.com/DanielJones02/Password-Manager)
  - [ ] [TODO App (C++)](https://github.com/DanielJones02/TODO-Application)
  - [ ] [Auto Clicker (C++ or PY)]()
