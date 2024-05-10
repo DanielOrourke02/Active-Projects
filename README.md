@@ -12,11 +12,9 @@
 
 # Who am I?
 
-Hello, I'm Daniel Jones, a highly motivated and focused young 14 year old programmer, I can program in: Python, C++ and a little HTML & CSS. My journey into the world of coding started with curiosity, but quickly turned into my full interest and hobby.
+I am Daniel Jones, to put it simply, i'm just a programmer. I can program in Python, C++ (learning) and a little bit of HTML and CSS. I also work well with linux systems. I program with vscode on windwos for the majority of my time just because most of my programs are more suited for windows users, although I try to make my projects cross platform for both windows and linux, but i'm happy to use linux anytime.
 
-In the future I would like to work as a C++ backend or frontend developer or whatever future job opportunities I get, I believe I can work well as a software engineer because I can contribute to new projects and collaborate with other professionals to develop new software applications. I believe programming is more than just writing a few lines of code; It’s about using solving complex problems and thinking logically which not alot of people can do.
-
-In addition to my career goals, In my free time I wish to work as a freelancer (I cannot due to my current circumstances). I would like to work as a freelancer becuase it offers the flexibility to work on different projects, continue learning, and connect with people around the world. Not only does this bring new complex challenges but helps expand my knoledge and gain new connections in the tech industry.
+I aspire to be a software enginneer when i'm older. Maybe even a full stack developer, but currently i'm still mastering my skills and expanding my knowledge.
 
 Thanks for reading!
 
@@ -73,10 +71,9 @@ Windows Application for setting Tasks to do
 
  - [x] Learning ImGUI (GUIs in general)
  - [x] Learn C++
- - [ ] Qt (library)
- - [ ] C++ Pointers 💀
- - [ ] Artificial neural networks (machine learning)
- - [ ] Tensorflow (machine learning)
+ - [ ] Web development (im doing a course)
+ - [ ] C++ GUIs
+ - [ ] Python ML (tensorflow, pytorch)
 
 ## 💻 Tools, Languages, and Other Things I Work Well With 💻
 
