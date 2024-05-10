@@ -49,10 +49,10 @@ Advanced Discord Bot, with: moderation commands, economy games and more custom c
 An archive of all the bots I have programmed for people (freelance).
 
  - #3 [Password Manager (C++)](https://github.com/DanielJones02/Password-Manager)
-Just a Password Manager in C++ for Windows.
+Just a Password Manager in C++ for Windows. (IN THE MAKING)
 
  - #4 [TODO Application (C++)](https://github.com/DanielJones02/TODO-Application)
-Windows Application for setting Tasks to do
+Windows Application for setting Tasks to do. (IN THE MAKING)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
