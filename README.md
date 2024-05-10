@@ -60,11 +60,14 @@ Windows Application for setting Tasks to do
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-<h3 align="left">Hire Me: https://discord.gg/kNWkT8xWg6 Or DM ME: mal023</h3>
-</p>
+
+<h2 align="center">
+  <br>
+  Connect with me
+  <br>
+</h2>
+
+<p align="center">Hire Me: https://discord.gg/kNWkT8xWg6 Or DM ME: mal023</p>
 
 # Challenges I'm Facing
 
