@@ -26,7 +26,6 @@ Thanks for reading!
 
 I will mainly focus on 1-3 projects and have a few side projects that will have less of my attention.
 
- - [x] [Face Recognition (PY)](https://github.com/DanielJones02/Face-RecognitionPY)
  - [x] [Password Generator (C++)](https://github.com/DanielJones02/Password-Generator)
  - [x] [Simple GUI (C++)](https://github.com/DanielJones02/Simple-GUI)
  - [x] [Echo Bot (PY)](https://github.com/DanielJones02/Echo)
