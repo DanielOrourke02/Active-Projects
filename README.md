@@ -31,8 +31,6 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
  - [x] [Echo Bot (PY)](https://github.com/DanielJones02/Echo)
  - [x] [Discord Bot Template (PY)](https://github.com/DanielJones02/Discord-Template)
  - [x] [Sorting Algorithms (C++)](https://github.com/DanielJones02/number-crucnher)
- - [ ] [Password Manager (C++)](https://github.com/DanielJones02/Password-Manager)
- - [ ] [TODO App (C++)](https://github.com/DanielJones02/TODO-Application)
  - [ ] [Auto Clicker (C++ or PY)]()
 
 <div align="center">
@@ -46,12 +44,6 @@ Advanced Discord Bot, with: moderation commands, economy games and more custom c
 
  - #2 [Discord Bot Archive](https://github.com/DanielJones02/Discord-Bots)
 An archive of all the bots I have programmed for people (freelance).
-
- - #3 [Password Manager (C++)](https://github.com/DanielJones02/Password-Manager)
-Just a Password Manager in C++ for Windows. (IN THE MAKING)
-
- - #4 [TODO Application (C++)](https://github.com/DanielJones02/TODO-Application)
-Windows Application for setting Tasks to do. (IN THE MAKING)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
