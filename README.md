@@ -39,10 +39,13 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
 
 ### Main Projects
 
- - #1 [Echo Bot (PY)](https://github.com/DanielOrourke02/Echo)
+ - #1 [Echo Bot (PY)](https://github.com/DanielOrourke02/Echo) (NOW DEPRICATED)
 Advanced Discord Bot, with: moderation commands, economy games and more custom complex commands. I plan for the bot to be an all in one server solution for: managing, creating, moderating and fun.
 
- - #2 [Discord Bot Archive](https://github.com/DanielOrourke02/Discord-Bots)
+ - #2 Casino Bot (Not open source yet)
+A very complex economy game bot along with enough casino games to help your gambling needs.
+
+ - #3 [Discord Bot Archive](https://github.com/DanielOrourke02/Discord-Bots)
 An archive of all the bots I have programmed for people (freelance).
 
 <div align="center">
