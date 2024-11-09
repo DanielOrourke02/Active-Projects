@@ -31,7 +31,7 @@ I will mainly focus on 1-3 projects and have a few side projects that will have 
  - [x] [Echo Bot (PY)](https://github.com/DanielOrourke02/Echo)
  - [x] [Discord Bot Template (PY)](https://github.com/DanielOrourke02/Discord-Template)
  - [x] [Sorting Algorithms (C++)](https://github.com/DanielOrourke02/number-crucnher)
- - [ ] [Auto Clicker (C++ or PY)]()
+ - [ ] [Banking System (C++)](https://github.com/DanielOrourke02/Banking-System)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
